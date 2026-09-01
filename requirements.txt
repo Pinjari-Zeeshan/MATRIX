@@ -1,0 +1,24 @@
+# Core AI
+ollama
+
+# Environment configuration
+python-dotenv
+
+# Voice input
+faster-whisper
+sounddevice
+numpy
+
+# Gmail API
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# HTTP / API utilities
+requests
+
+# Optional voice output
+pyttsx3
+
+# Wake-word detection
+openwakeword
